@@ -6,7 +6,7 @@ Project 1 for COMP30027 Machine Learning 2018
 Implementation of both supervised and unsupervised Naive Bayes classifiers
 
 ---
-### Dataset Detail
+### Datasets Detail
 - breast-cancer.csv
 	- 286 instances
 	- 9 nominal attributes
