@@ -1,4 +1,4 @@
-# ML-Project1
+# Naive-Bayes-Classifier
 Project 1 for COMP30027 Machine Learning 2018
 
 ---
@@ -32,4 +32,3 @@ Implementation of both supervised and unsupervised Naive Bayes classifiers
 	- use the model from train() to predict a class from the test data
 - evaluate()
 	- output the evaluation metric or sufficient information
-
